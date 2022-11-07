@@ -1,6 +1,6 @@
 ---
 title: "IODS course project"
-author: "Katja Sivonen"
+author: "KatjaSivonen"
 output:
   html_document:
     theme: cosmo
