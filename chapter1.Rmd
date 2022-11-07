@@ -9,5 +9,9 @@
 date()
 
 ```
-The text continues here.
+I don't know how well I'll do but I'm expecting to learn a lot of new things about R and open data science. I learned about the course when Kimmo recommended it to me. 
+
+The exercise set was a great introduction to R tools and Rstudio. I found the operators for filtering data to be the most interesting. Everything is still a bit tricky for me since I'm not very used to R yet.
+
+https://github.com/KatjaSivonen/IODS-project.git 
 
